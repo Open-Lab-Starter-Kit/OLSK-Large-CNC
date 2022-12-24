@@ -1,12 +1,12 @@
 
-<div align="center"><h1 style=align="center">OLSK Large CNC</h1></div>
+<div align="center"><h1 style=align="center">OLSK Large CNC V1</h1></div>
 
 <div align="center"><img src="media/OLSK-Large-CNC.jpg" width="100%"></div>
 <div align="center"><i>Open Source CNC Milling machine - Large version - Open Lab Starter Kit</i></div>
 
 <br>
 
-Specifications
+Specifications V1
 --
 
 - cutting area: 2500x1250x300mm
