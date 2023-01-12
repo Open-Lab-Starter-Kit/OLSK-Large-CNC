@@ -39,7 +39,7 @@ Specifications V1
 Files
 --
 - **[CAD](cad)**
-- **[Assembly Workbook](cad)**
+- **[Assembly Workbook](OLSK_Large_CNC_V1_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_CNC_V1_Wiring_Schematic.pdf)**
 
 Author
