@@ -10,6 +10,13 @@ Introduction
 --
 The OLSK Large CNC is a low-cost open source large format CNC milling machine, with milling volume of 2500 x 1250 x 300 mm. Designed to be easy to produce and assemble, this machine has a simpliflied structure combining steel pipes with aluminum parts. It can be replicable in most Fab Labs and also industrially, making use of accessible standard components and custom made fabricable parts. It has the highest open source Z-axis for milling machines and features a compact distance between the router and the linear guides, which provides a stable milling, in addition to the rack and pinion Y-axis. The machine can be easily moved and fixed with its retractable and adjustable wheels and an independent control box, which can operate with 220v, making it accessible for buildings with no 280v plower plug. 
 
+<img src="media/OLSK_Large_CNC3_low-res.jpg" width="100%">
+
+The Assembly Workbook
+--
+
+All OLSK machines are open source and have the BOM and necessary files available in this repository for replication. The assembly of parts is also documented in a workbook where each step contains a list of parts, tools and instruction remarks, following a logic order to provide a smooth assembly.
+
 Specifications V1
 --
 
@@ -27,13 +34,22 @@ Specifications V1
 - safe power setup with contactors, residual current device and circuit breakers
 - Z height tool sensor
 
+<img src="media/OLSK_Large_CNC2_low-res.jpg" width="100%">
+
+Files
+--
+- **[CAD](cad)**
+- **[Assembly Workbook](cad)**
+- **[Wiring Schematic](OLSK_Large_CNC_V1_Wiring_Schematic.pdf)**
+
 Author
 --
+
+OLSK Large CNC has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
+
 <img src="https://irp.cdn-website.com/2b5ccdcd/dms3rep/multi/InMachines_Logo_positive_white.png" width="50%">
 
 <br>
-
-OLSK Large CNC has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
 
 Machine design:
 - **[Daniele Ingrassia](https://www.linkedin.com/in/danieleingrassia/)**
