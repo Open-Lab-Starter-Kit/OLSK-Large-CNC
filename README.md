@@ -1,7 +1,7 @@
 
 <div align="center"><h1 style=align="center">OLSK Large CNC V1</h1></div>
 
-<div align="center"><img src="media/OLSK-Large-CNC.jpg" width="100%"></div>
+<div align="center"><img src="media/OLSK_Large_CNC1_low-res.jpg" width="100%"></div>
 <div align="center"><i>Open Source CNC Milling machine - Large version - Open Lab Starter Kit</i></div>
 
 <br>
@@ -39,6 +39,7 @@ Specifications V1
 Files
 --
 - **[CAD](cad)**
+- **[Converter PCB](converterPCB)**
 - **[Assembly Workbook](OLSK_Large_CNC_V1_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_CNC_V1_Wiring_Schematic.pdf)**
 
