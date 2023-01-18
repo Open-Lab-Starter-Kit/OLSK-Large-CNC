@@ -10,7 +10,9 @@ Introduction
 --
 The OLSK Large CNC is a low-cost open source large format CNC milling machine, with milling volume of 2500 x 1250 x 300 mm. Designed to be easy to produce and assemble, this machine has a simpliflied structure combining steel pipes with aluminum parts. It can be replicable in most Fab Labs and also industrially, making use of accessible standard components and custom made fabricable parts. It has the highest open source Z-axis for milling machines and features a compact distance between the router and the linear guides, which provides a stable milling, in addition to the rack and pinion Y-axis. The machine can be easily moved and fixed with its retractable and adjustable wheels and an independent control box, which can operate with 220v, making it accessible for buildings with no 380v plower plug. 
 
-<img src="media/OLSK_Large_CNC3_low-res.jpg" width="100%">
+<img src="media/OLSK_Large_CNC3_low-res2.jpg" width="100%">
+<img src="media/Highlights.jpg" width="100%">
+
 
 The Assembly Workbook
 --
