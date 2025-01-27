@@ -44,6 +44,7 @@ Files
 - **[Converter PCB](converterPCB)**
 - **[Assembly Workbook](OLSK_Large_CNC_V1_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_CNC_V1_Wiring_Schematic.pdf)**
+- **[BOM](BOM)**
 
 Author
 --
