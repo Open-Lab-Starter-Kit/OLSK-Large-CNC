@@ -25,14 +25,13 @@ Specifications V2
 - industrial electronic system
 - safe power setup with contactors, residual current device and circuit breakers
 
-<img src="media/OLSK_Large_CNC_V2_3" width="100%">
+<img src="media/OLSK_Large_CNC_V2_3.jpg" width="100%">
 
 Files
 --
 - **[Assembly manual](https://open-lab-starter-kit.github.io/OLSK-Large-CNC/)**
 - **[Wiring Schematic](OLSK_Large_CNC_WiringSchematic_V3.pdf)**
 - **[Pneumatics Schematic](OLSK_Large_CNC_PneumaticsSchematic_V3.pdf)**
-- **[BOM](BOM)**
 
 Author
 --
