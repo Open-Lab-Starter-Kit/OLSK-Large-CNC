@@ -70,7 +70,7 @@ export default function Header() {
             <div>
                 <img src="./InMachines_Logo_positive_RGB.svg" className="navLogo" id="mainLogo" />
             </div>
-            <div><h1 className="Title" >OLSK Large CNC V2</h1></div>
+            <div><h1 className="Title" >OLSK Large CNC V3</h1></div>
 
             <div className="navMenu" >
                 <ul >
@@ -89,4 +89,4 @@ export default function Header() {
 
         </HeaderBar>
     </>
-}
+} 3
