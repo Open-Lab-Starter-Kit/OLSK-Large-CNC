@@ -12,8 +12,14 @@ The OLSK Large CNC is an open source large format CNC milling machine, with a mi
 
 <img src="media/Highlights.jpg" width="100%">
 
+The Assembly Manual
+--
 
-Specifications V2
+All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logic order to provide a smooth assembly.
+
+- **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Large-CNC/)**
+
+Specifications V3
 --
 
 - milling area: 2500 x 1250 mm
@@ -25,14 +31,12 @@ Specifications V2
 - industrial electronic system
 - safe power setup with contactors, residual current device and circuit breakers
 
-<img src="media/OLSK_Large_CNC_V2_3" width="100%">
+<img src="media/OLSK_Large_CNC_V2_3.jpg" width="100%">
 
 Files
 --
-- **[Assembly manual](https://open-lab-starter-kit.github.io/OLSK-Large-CNC/)**
 - **[Wiring Schematic](OLSK_Large_CNC_WiringSchematic_V3.pdf)**
 - **[Pneumatics Schematic](OLSK_Large_CNC_PneumaticsSchematic_V3.pdf)**
-- **[BOM](BOM)**
 
 Author
 --
