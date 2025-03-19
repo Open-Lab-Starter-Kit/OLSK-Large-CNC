@@ -50,6 +50,7 @@ Files
 
 - **[Settings](settings)**
 - **[Firmware](firmware)**
+- **[BOM](OLSK_Large_CNC_V3-BOM.xlsx)**
 - **[Wiring Schematic](OLSK_Large_CNC_WiringSchematic_V3.pdf)**
 - **[Pneumatics Schematic](OLSK_Large_CNC_PneumaticsSchematic_V3.pdf)**
 
