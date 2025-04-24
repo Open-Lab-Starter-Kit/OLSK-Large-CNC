@@ -92,11 +92,18 @@ Assembly manual, pictures, videos, presentations, description text and other typ
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
 
+Copyright
+--
+
+- Daniele Ingrassia, InMachines Ingrassia GmbH
+
+- Tobias Redlich, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+
+
 Previous version
 --
 
-The previous versions of OLSK machines will always be available. 
+The previous versions of OLSK machines will always be available.
 
-**[OLSK Large CNC V1 Repository](OLSK_Large_CNC_V1)** 
+**[OLSK Large CNC V1 Repository](OLSK_Large_CNC_V1)**
 <div><img src="media/OLSK_Large_CNC1_low-res.jpg" width="30%"></div>
-
